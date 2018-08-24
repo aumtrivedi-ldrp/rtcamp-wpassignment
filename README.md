@@ -1,5 +1,8 @@
 # This repository contains wordpress theme assignment create for the rtCamp Solutions Pvt. Ltd.
 
+<b>Name</b>:Aum Trivedi(IT)
+<b>College:LDRP-ITR</b>
+ <b>Enrollment No: 21619SBEIT30066</b>
 <b>Here i used _rtcamp for wordpress pages structure.:- </b>
 https://underscores.me/
 
