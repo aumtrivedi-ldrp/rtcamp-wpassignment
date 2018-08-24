@@ -20,11 +20,11 @@ https://aumtrivedi-ldrp-itr.000webhostapp.com/
 
 <b>This are the screentshots of this theme</b>
 
-![Alt text](https://github.com/aumtrivedi-ldrp/rtcamp-wpassignment/blob/master/RTCAMP%20DESIGN/TwoLevelMenu.png "Header menu")
+![Alt text](https://github.com/aumtrivedi-ldrp/rtcamp-wpassignment1/blob/master/RTCAMP%20DESIGN/TwoLevelMenu.png "Header menu")
 Header menu
 
-![Alt text](https://github.com/aumtrivedi-ldrp/rtcamp-wpassignment/blob/master/RTCAMP%20DESIGN/Child-Pages.png "Child Pages or Post")
+![Alt text](https://github.com/aumtrivedi-ldrp/rtcamp-wpassignment1/blob/master/RTCAMP%20DESIGN/Child-Pages.png "Child Pages or Post")
 Child Pages or Post
 
-![Alt text](https://github.com/aumtrivedi-ldrp/rtcamp-wpassignment/blob/master/RTCAMP%20DESIGN/Footer.png "Footer")
+![Alt text](https://github.com/aumtrivedi-ldrp/rtcamp-wpassignment1/blob/master/RTCAMP%20DESIGN/Footer.png "Footer")
 Footer
